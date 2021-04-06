@@ -1,0 +1,5 @@
+hrithik pawan;02/08/2000;Male;venkateshwarlu;kavitha;hrithikkakkireni@gmail.com;6303930595;lbnagar,hyd;C:\Users\hrithik pawan\Desktop\python project\photos\hp_pic.png
+T.sai varma;08/07/2001;Male;T.ravindra Raju;T.sridevi;saivarma072001@gmail.com;7032964394;As rao nagar,hyd;C:\Users\hrithik pawan\Desktop\python project\photos\sai_pic.png
+k hrithik pawan;02-08-2001;male;k venkateshwarlu;k kavitha;hrithikkakkireni@gmail.com;6303930595;hyderabad;C:\Users\hrith\Downloads\python project-20210405T195140Z-001\python project\photos\hp_pic
+k hrithik pawan;02-08-2001;male;k venkateshwarlu;k kavitha;hrithikkakkireni@gmail.com;6303930595;hyderabad;C:\Users\hrith\Downloads\python project-20210405T195140Z-001\python project\photos\hp_pic
+hp;2001;;;;;;;C:\Users\hrith\Downloads\python project-20210405T195140Z-001\python project\photos\
